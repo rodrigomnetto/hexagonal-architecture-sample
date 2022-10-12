@@ -1,0 +1,15 @@
+C:\Users\rodri\source\repos\Hexagonal.Architecture.Sample\Adapters\Driven\Database.Adapters\bin\Debug\net6.0\Database.Adapters.deps.json
+C:\Users\rodri\source\repos\Hexagonal.Architecture.Sample\Adapters\Driven\Database.Adapters\bin\Debug\net6.0\Database.Adapters.dll
+C:\Users\rodri\source\repos\Hexagonal.Architecture.Sample\Adapters\Driven\Database.Adapters\bin\Debug\net6.0\Database.Adapters.pdb
+C:\Users\rodri\source\repos\Hexagonal.Architecture.Sample\Adapters\Driven\Database.Adapters\bin\Debug\net6.0\App.Logic.dll
+C:\Users\rodri\source\repos\Hexagonal.Architecture.Sample\Adapters\Driven\Database.Adapters\bin\Debug\net6.0\App.Logic.pdb
+C:\Users\rodri\source\repos\Hexagonal.Architecture.Sample\Adapters\Driven\Database.Adapters\obj\Debug\net6.0\Database.Adapters.csproj.AssemblyReference.cache
+C:\Users\rodri\source\repos\Hexagonal.Architecture.Sample\Adapters\Driven\Database.Adapters\obj\Debug\net6.0\Database.Adapters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Hexagonal.Architecture.Sample\Adapters\Driven\Database.Adapters\obj\Debug\net6.0\Database.Adapters.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Hexagonal.Architecture.Sample\Adapters\Driven\Database.Adapters\obj\Debug\net6.0\Database.Adapters.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Hexagonal.Architecture.Sample\Adapters\Driven\Database.Adapters\obj\Debug\net6.0\Database.Adapters.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Hexagonal.Architecture.Sample\Adapters\Driven\Database.Adapters\obj\Debug\net6.0\Database.Adapters.csproj.CopyComplete
+C:\Users\rodri\source\repos\Hexagonal.Architecture.Sample\Adapters\Driven\Database.Adapters\obj\Debug\net6.0\Database.Adapters.dll
+C:\Users\rodri\source\repos\Hexagonal.Architecture.Sample\Adapters\Driven\Database.Adapters\obj\Debug\net6.0\refint\Database.Adapters.dll
+C:\Users\rodri\source\repos\Hexagonal.Architecture.Sample\Adapters\Driven\Database.Adapters\obj\Debug\net6.0\Database.Adapters.pdb
+C:\Users\rodri\source\repos\Hexagonal.Architecture.Sample\Adapters\Driven\Database.Adapters\obj\Debug\net6.0\ref\Database.Adapters.dll

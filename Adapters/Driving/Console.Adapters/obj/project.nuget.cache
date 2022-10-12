@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+m7U0bVqK+6fB98VIiJz8/+XJOpza9UjYAsCqT1W6znmIQFE2Twpi4T251kxBaPFzfOWxGlCLnwvkUro3Iya1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rodri\\source\\repos\\Hexagonal.Architecture.Sample\\Adapters\\Driving\\Console.Adapters\\Console.Adapters.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.1\\microsoft.extensions.dependencyinjection.6.0.1.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\rodri\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
